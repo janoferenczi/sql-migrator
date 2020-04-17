@@ -19,6 +19,9 @@
   ],
   "author": "Janos Ferenczi",
   "license": "ISC",
+  "repository": {
+    "url": "https://github.com/janoferenczi/sql-migrator.git"
+  },
   "dependencies": {
     "esm": "^3.2.25"
   }

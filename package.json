@@ -1,0 +1,25 @@
+{
+  "name": "@janoferenczi/sql-migrator",
+  "version": "0.0.1",
+  "description": "A CLI for running SQL migrations more easy.",
+  "main": "src/index.js",
+  "bin": {
+    "@janoferenczi/sql-migrator": "bin/sql-migrator",
+    "sql-migrator": "bin/sql-migrator"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli",
+    "sql-migrator"
+  ],
+  "author": "Janos Ferenczi",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
